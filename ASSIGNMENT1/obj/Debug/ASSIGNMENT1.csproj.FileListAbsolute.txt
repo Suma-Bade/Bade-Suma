@@ -1,0 +1,6 @@
+C:\Suma\c#\Handson\ASSIGNMENT1\bin\Debug\ASSIGNMENT1.exe.config
+C:\Suma\c#\Handson\ASSIGNMENT1\bin\Debug\ASSIGNMENT1.exe
+C:\Suma\c#\Handson\ASSIGNMENT1\bin\Debug\ASSIGNMENT1.pdb
+C:\Suma\c#\Handson\ASSIGNMENT1\obj\Debug\ASSIGNMENT1.csprojAssemblyReference.cache
+C:\Suma\c#\Handson\ASSIGNMENT1\obj\Debug\ASSIGNMENT1.exe
+C:\Suma\c#\Handson\ASSIGNMENT1\obj\Debug\ASSIGNMENT1.pdb
