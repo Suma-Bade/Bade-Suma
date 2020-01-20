@@ -1,0 +1,6 @@
+C:\Suma\c#\Handson\Arrays\bin\Debug\Arrays.exe.config
+C:\Suma\c#\Handson\Arrays\bin\Debug\Arrays.exe
+C:\Suma\c#\Handson\Arrays\bin\Debug\Arrays.pdb
+C:\Suma\c#\Handson\Arrays\obj\Debug\Arrays.csprojAssemblyReference.cache
+C:\Suma\c#\Handson\Arrays\obj\Debug\Arrays.exe
+C:\Suma\c#\Handson\Arrays\obj\Debug\Arrays.pdb
