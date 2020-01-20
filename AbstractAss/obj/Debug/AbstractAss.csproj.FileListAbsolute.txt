@@ -1,0 +1,6 @@
+C:\Suma\c#\Handson\AbstractAss\obj\Debug\AbstractAss.csprojAssemblyReference.cache
+C:\Suma\c#\Handson\AbstractAss\bin\Debug\AbstractAss.exe.config
+C:\Suma\c#\Handson\AbstractAss\bin\Debug\AbstractAss.exe
+C:\Suma\c#\Handson\AbstractAss\bin\Debug\AbstractAss.pdb
+C:\Suma\c#\Handson\AbstractAss\obj\Debug\AbstractAss.exe
+C:\Suma\c#\Handson\AbstractAss\obj\Debug\AbstractAss.pdb
