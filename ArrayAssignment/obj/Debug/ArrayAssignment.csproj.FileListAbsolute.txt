@@ -1,0 +1,6 @@
+C:\Suma\c#\Handson\ArrayAssignment\bin\Debug\ArrayAssignment.exe.config
+C:\Suma\c#\Handson\ArrayAssignment\bin\Debug\ArrayAssignment.exe
+C:\Suma\c#\Handson\ArrayAssignment\bin\Debug\ArrayAssignment.pdb
+C:\Suma\c#\Handson\ArrayAssignment\obj\Debug\ArrayAssignment.csprojAssemblyReference.cache
+C:\Suma\c#\Handson\ArrayAssignment\obj\Debug\ArrayAssignment.exe
+C:\Suma\c#\Handson\ArrayAssignment\obj\Debug\ArrayAssignment.pdb
