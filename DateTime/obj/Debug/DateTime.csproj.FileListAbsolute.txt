@@ -1,0 +1,6 @@
+C:\Suma\c#\Handson\DateTime\bin\Debug\DateTime.exe.config
+C:\Suma\c#\Handson\DateTime\bin\Debug\DateTime.exe
+C:\Suma\c#\Handson\DateTime\bin\Debug\DateTime.pdb
+C:\Suma\c#\Handson\DateTime\obj\Debug\DateTime.csprojAssemblyReference.cache
+C:\Suma\c#\Handson\DateTime\obj\Debug\DateTime.exe
+C:\Suma\c#\Handson\DateTime\obj\Debug\DateTime.pdb
