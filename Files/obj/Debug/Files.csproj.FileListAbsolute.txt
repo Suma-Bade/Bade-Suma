@@ -1,0 +1,6 @@
+C:\Suma\c#\Handson\Files\bin\Debug\Files.exe.config
+C:\Suma\c#\Handson\Files\bin\Debug\Files.exe
+C:\Suma\c#\Handson\Files\bin\Debug\Files.pdb
+C:\Suma\c#\Handson\Files\obj\Debug\Files.csprojAssemblyReference.cache
+C:\Suma\c#\Handson\Files\obj\Debug\Files.exe
+C:\Suma\c#\Handson\Files\obj\Debug\Files.pdb
