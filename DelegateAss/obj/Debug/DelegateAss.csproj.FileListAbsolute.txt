@@ -1,0 +1,6 @@
+C:\Suma\c#\Handson\DelegateAss\bin\Debug\DelegateAss.exe.config
+C:\Suma\c#\Handson\DelegateAss\bin\Debug\DelegateAss.exe
+C:\Suma\c#\Handson\DelegateAss\bin\Debug\DelegateAss.pdb
+C:\Suma\c#\Handson\DelegateAss\obj\Debug\DelegateAss.csprojAssemblyReference.cache
+C:\Suma\c#\Handson\DelegateAss\obj\Debug\DelegateAss.exe
+C:\Suma\c#\Handson\DelegateAss\obj\Debug\DelegateAss.pdb
