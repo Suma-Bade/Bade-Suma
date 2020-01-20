@@ -1,0 +1,6 @@
+C:\Suma\c#\Handson\Delegates2\bin\Debug\Delegates2.exe.config
+C:\Suma\c#\Handson\Delegates2\bin\Debug\Delegates2.exe
+C:\Suma\c#\Handson\Delegates2\bin\Debug\Delegates2.pdb
+C:\Suma\c#\Handson\Delegates2\obj\Debug\Delegates2.csprojAssemblyReference.cache
+C:\Suma\c#\Handson\Delegates2\obj\Debug\Delegates2.exe
+C:\Suma\c#\Handson\Delegates2\obj\Debug\Delegates2.pdb
