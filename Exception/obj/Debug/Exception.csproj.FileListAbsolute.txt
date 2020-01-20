@@ -1,0 +1,6 @@
+C:\Suma\c#\Handson\Exception\bin\Debug\Exception.exe.config
+C:\Suma\c#\Handson\Exception\bin\Debug\Exception.exe
+C:\Suma\c#\Handson\Exception\bin\Debug\Exception.pdb
+C:\Suma\c#\Handson\Exception\obj\Debug\Exception.csprojAssemblyReference.cache
+C:\Suma\c#\Handson\Exception\obj\Debug\Exception.exe
+C:\Suma\c#\Handson\Exception\obj\Debug\Exception.pdb
