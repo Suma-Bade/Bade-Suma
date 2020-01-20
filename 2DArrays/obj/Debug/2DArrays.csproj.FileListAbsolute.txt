@@ -1,0 +1,6 @@
+C:\Suma\c#\Handson\2DArrays\bin\Debug\2DArrays.exe.config
+C:\Suma\c#\Handson\2DArrays\bin\Debug\2DArrays.exe
+C:\Suma\c#\Handson\2DArrays\bin\Debug\2DArrays.pdb
+C:\Suma\c#\Handson\2DArrays\obj\Debug\2DArrays.csprojAssemblyReference.cache
+C:\Suma\c#\Handson\2DArrays\obj\Debug\2DArrays.exe
+C:\Suma\c#\Handson\2DArrays\obj\Debug\2DArrays.pdb
