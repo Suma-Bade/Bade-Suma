@@ -1,0 +1,6 @@
+C:\Suma\c#\Handson\ConstructorAssignment\bin\Debug\ConstructorAssignment.exe.config
+C:\Suma\c#\Handson\ConstructorAssignment\bin\Debug\ConstructorAssignment.exe
+C:\Suma\c#\Handson\ConstructorAssignment\bin\Debug\ConstructorAssignment.pdb
+C:\Suma\c#\Handson\ConstructorAssignment\obj\Debug\ConstructorAssignment.csprojAssemblyReference.cache
+C:\Suma\c#\Handson\ConstructorAssignment\obj\Debug\ConstructorAssignment.exe
+C:\Suma\c#\Handson\ConstructorAssignment\obj\Debug\ConstructorAssignment.pdb
