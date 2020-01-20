@@ -1,0 +1,6 @@
+C:\Suma\c#\Handson\Collections\bin\Debug\Collections.exe.config
+C:\Suma\c#\Handson\Collections\bin\Debug\Collections.exe
+C:\Suma\c#\Handson\Collections\bin\Debug\Collections.pdb
+C:\Suma\c#\Handson\Collections\obj\Debug\Collections.csprojAssemblyReference.cache
+C:\Suma\c#\Handson\Collections\obj\Debug\Collections.exe
+C:\Suma\c#\Handson\Collections\obj\Debug\Collections.pdb
