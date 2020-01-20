@@ -1,0 +1,6 @@
+C:\Suma\c#\Handson\FirstApp\bin\Debug\FirstApp.exe.config
+C:\Suma\c#\Handson\FirstApp\bin\Debug\FirstApp.exe
+C:\Suma\c#\Handson\FirstApp\bin\Debug\FirstApp.pdb
+C:\Suma\c#\Handson\FirstApp\obj\Debug\FirstApp.csprojAssemblyReference.cache
+C:\Suma\c#\Handson\FirstApp\obj\Debug\FirstApp.exe
+C:\Suma\c#\Handson\FirstApp\obj\Debug\FirstApp.pdb
