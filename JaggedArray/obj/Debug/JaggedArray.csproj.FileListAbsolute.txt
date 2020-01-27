@@ -1,0 +1,6 @@
+C:\Suma\c#\Handson\JaggedArray\bin\Debug\JaggedArray.exe.config
+C:\Suma\c#\Handson\JaggedArray\bin\Debug\JaggedArray.exe
+C:\Suma\c#\Handson\JaggedArray\bin\Debug\JaggedArray.pdb
+C:\Suma\c#\Handson\JaggedArray\obj\Debug\JaggedArray.csprojAssemblyReference.cache
+C:\Suma\c#\Handson\JaggedArray\obj\Debug\JaggedArray.exe
+C:\Suma\c#\Handson\JaggedArray\obj\Debug\JaggedArray.pdb
