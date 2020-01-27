@@ -1,0 +1,6 @@
+C:\Suma\c#\Handson\VariablesWithDataTypes\bin\Debug\VariablesWithDataTypes.exe.config
+C:\Suma\c#\Handson\VariablesWithDataTypes\bin\Debug\VariablesWithDataTypes.exe
+C:\Suma\c#\Handson\VariablesWithDataTypes\bin\Debug\VariablesWithDataTypes.pdb
+C:\Suma\c#\Handson\VariablesWithDataTypes\obj\Debug\VariablesWithDataTypes.csprojAssemblyReference.cache
+C:\Suma\c#\Handson\VariablesWithDataTypes\obj\Debug\VariablesWithDataTypes.exe
+C:\Suma\c#\Handson\VariablesWithDataTypes\obj\Debug\VariablesWithDataTypes.pdb
