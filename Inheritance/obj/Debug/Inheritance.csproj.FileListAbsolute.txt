@@ -1,0 +1,6 @@
+C:\Suma\c#\Handson\Inheritance\bin\Debug\Inheritance.exe.config
+C:\Suma\c#\Handson\Inheritance\bin\Debug\Inheritance.exe
+C:\Suma\c#\Handson\Inheritance\bin\Debug\Inheritance.pdb
+C:\Suma\c#\Handson\Inheritance\obj\Debug\Inheritance.csprojAssemblyReference.cache
+C:\Suma\c#\Handson\Inheritance\obj\Debug\Inheritance.exe
+C:\Suma\c#\Handson\Inheritance\obj\Debug\Inheritance.pdb
