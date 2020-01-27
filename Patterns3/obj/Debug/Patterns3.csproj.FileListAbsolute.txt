@@ -1,0 +1,6 @@
+C:\Suma\c#\Handson\Patterns3\bin\Debug\Patterns3.exe.config
+C:\Suma\c#\Handson\Patterns3\bin\Debug\Patterns3.exe
+C:\Suma\c#\Handson\Patterns3\bin\Debug\Patterns3.pdb
+C:\Suma\c#\Handson\Patterns3\obj\Debug\Patterns3.csprojAssemblyReference.cache
+C:\Suma\c#\Handson\Patterns3\obj\Debug\Patterns3.exe
+C:\Suma\c#\Handson\Patterns3\obj\Debug\Patterns3.pdb
