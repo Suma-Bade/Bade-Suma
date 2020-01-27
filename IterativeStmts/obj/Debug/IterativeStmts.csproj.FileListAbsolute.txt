@@ -1,0 +1,6 @@
+C:\Suma\c#\Handson\IterativeStmts\bin\Debug\IterativeStmts.exe.config
+C:\Suma\c#\Handson\IterativeStmts\bin\Debug\IterativeStmts.exe
+C:\Suma\c#\Handson\IterativeStmts\bin\Debug\IterativeStmts.pdb
+C:\Suma\c#\Handson\IterativeStmts\obj\Debug\IterativeStmts.csprojAssemblyReference.cache
+C:\Suma\c#\Handson\IterativeStmts\obj\Debug\IterativeStmts.exe
+C:\Suma\c#\Handson\IterativeStmts\obj\Debug\IterativeStmts.pdb
