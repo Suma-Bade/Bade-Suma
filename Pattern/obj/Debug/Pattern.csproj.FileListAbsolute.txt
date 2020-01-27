@@ -1,0 +1,6 @@
+C:\Suma\c#\Handson\Pattern\bin\Debug\Pattern.exe.config
+C:\Suma\c#\Handson\Pattern\bin\Debug\Pattern.exe
+C:\Suma\c#\Handson\Pattern\bin\Debug\Pattern.pdb
+C:\Suma\c#\Handson\Pattern\obj\Debug\Pattern.csprojAssemblyReference.cache
+C:\Suma\c#\Handson\Pattern\obj\Debug\Pattern.exe
+C:\Suma\c#\Handson\Pattern\obj\Debug\Pattern.pdb
