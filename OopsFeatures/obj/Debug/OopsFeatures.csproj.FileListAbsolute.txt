@@ -1,0 +1,6 @@
+C:\Suma\c#\Handson\OopsFeatures\bin\Debug\OopsFeatures.exe.config
+C:\Suma\c#\Handson\OopsFeatures\bin\Debug\OopsFeatures.exe
+C:\Suma\c#\Handson\OopsFeatures\bin\Debug\OopsFeatures.pdb
+C:\Suma\c#\Handson\OopsFeatures\obj\Debug\OopsFeatures.csprojAssemblyReference.cache
+C:\Suma\c#\Handson\OopsFeatures\obj\Debug\OopsFeatures.exe
+C:\Suma\c#\Handson\OopsFeatures\obj\Debug\OopsFeatures.pdb
