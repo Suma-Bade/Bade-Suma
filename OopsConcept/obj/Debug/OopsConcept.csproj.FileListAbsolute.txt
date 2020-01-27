@@ -1,0 +1,6 @@
+C:\Suma\c#\Handson\OopsConcept\bin\Debug\OopsConcept.exe.config
+C:\Suma\c#\Handson\OopsConcept\bin\Debug\OopsConcept.exe
+C:\Suma\c#\Handson\OopsConcept\bin\Debug\OopsConcept.pdb
+C:\Suma\c#\Handson\OopsConcept\obj\Debug\OopsConcept.csprojAssemblyReference.cache
+C:\Suma\c#\Handson\OopsConcept\obj\Debug\OopsConcept.exe
+C:\Suma\c#\Handson\OopsConcept\obj\Debug\OopsConcept.pdb
