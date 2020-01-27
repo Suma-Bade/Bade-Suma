@@ -1,0 +1,6 @@
+C:\Suma\c#\Handson\String\bin\Debug\String.exe.config
+C:\Suma\c#\Handson\String\bin\Debug\String.exe
+C:\Suma\c#\Handson\String\bin\Debug\String.pdb
+C:\Suma\c#\Handson\String\obj\Debug\String.csprojAssemblyReference.cache
+C:\Suma\c#\Handson\String\obj\Debug\String.exe
+C:\Suma\c#\Handson\String\obj\Debug\String.pdb
